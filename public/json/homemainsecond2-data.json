@@ -1,0 +1,63 @@
+[
+    {
+        "index":0,
+        "name":"全面屏电视E43K",
+        "desc":"全面屏设计,海量内容",
+        "price":"1399元",
+        "discount":"1299元",
+        "img":"../image/homeMainSecond/r1.jpg"
+    },
+    {
+        "index":1,
+        "name":"全面屏电视 55英寸E55X",
+        "desc":"潮流全面屏设计",
+        "price":"2399元",
+        "discount":"2199元",
+        "img":"../image/homeMainSecond/r2.jpg"
+    },
+    {
+        "index":2,
+        "name":"小米电视4A 60英寸",
+        "desc":"人工智能语音系统，超高清画质",
+        "discount":"2599元",
+        "img":"../image/homeMainSecond/r3.jpg"
+    },
+    {
+        "index":3,
+        "name":"小米电视4S 75英寸",
+        "desc":"4K HDR，人工智能语音",
+        "price":"5999元",
+        "discount":"4499元",
+        "img":"../image/homeMainSecond/r4.jpg"
+    },
+    {
+        "index":4,
+        "name":"小米全面屏电视65英寸 E65X",
+        "desc":"全面屏设计",
+        "price":"3099元",
+        "discount":"2899元",
+        "img":"../image/homeMainSecond/r5.jpg"
+    },
+    {
+        "index":5,
+        "name":"小米全面屏电视E32C",
+        "desc":"全面屏设计，人工智能系统",
+        "price":"999元",
+        "discount":"799元",
+        "img":"../image/homeMainSecond/r6.jpg"
+    },
+    {
+        "index":6,
+        "name":"Redmi智能电视A55",
+        "desc":"澎湃音效影院级体验",
+        "price":"2199元",
+        "discount":"1999元",
+        "img":"../image/homeMainSecond/r7.jpg"
+    },
+    {
+        "index":7,
+        "name":"Redmi智能电视MAX 98",
+        "price":"2099元",
+        "img":"../image/homeMainSecond/r9.jpg"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "index":0,
+        "name":"小米全面屏电视65英寸 E65X",
+        "desc":"全面屏设计",
+        "price":"3099元",
+        "discount":"2899元",
+        "img":"../image/homeMainSecond/r1.jpg"
+    },
+    {
+        "index":1,
+        "name":"全面屏电视E43K",
+        "desc":"全面屏设计,海量内容",
+        "price":"1399元",
+        "discount":"1299元",
+        "img":"../image/homeMainSecond/r2.jpg"
+    },
+    {
+        "index":2,
+        "name":"小米电视4A 70英寸",
+        "desc":"大屏更享受",
+        "price":"3999元",
+        "discount":"3299元",
+        "img":"../image/homeMainSecond/r3.jpg"
+    },
+    {
+        "index":3,
+        "name":"米家空调",
+        "desc":"出众静音，快速制冷热",
+        "price":"1799元",
+        "discount":"1699元",
+        "img":"../image/homeMainSecond/r4.jpg"
+    },
+    {
+        "index":4,
+        "name":"米家互联网洗烘一体机 Pro 10kg",
+        "desc":"智能洗烘，省心省力",
+        "price":"3299元",
+        "discount":"2999元",
+        "img":"../image/homeMainSecond/r5.jpg"
+    },
+    {
+        "index":5,
+        "name":"Redmi全自动波轮洗衣机1A 8kg",
+        "desc":"一键操作，父母都爱用",
+        "price":"899元",
+        "discount":"799元",
+        "img":"../image/homeMainSecond/r6.jpg"
+    },
+    {
+        "index":6,
+        "name":"Air 13.3 2019款",
+        "desc":"新一代独立显卡",
+        "price":"689元",
+        "discount":"899元",
+        "img":"../image/homeMainSecond/r7.jpg"
+    },
+    {
+        "index":7,
+        "name":"米家互联网烟灶套装（天然气）",
+        "price":"2099元",
+        "img":"../image/homeMainSecond/r9.jpg"
+    }
+]

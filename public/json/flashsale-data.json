@@ -1,0 +1,58 @@
+[
+    {
+        "index":0,
+        "name":"米家电暖器 温控版 白色",
+        "desc":"2200W强劲功率，对流速热，居浴两用",
+        "price":"299元",
+        "discount":"269元",
+        "img":"../image/flashsale/r1.jpg"
+    },
+    {
+        "index":1,
+        "name":"米家声波电动牙刷T500",
+        "desc":"刷的干净，智能护齿",
+        "price":"199元",
+        "discount":"179元",
+        "img":"../image/flashsale/r2.jpg"
+    },
+    {
+        "index":2,
+        "name":"Redmi全自动波轮洗衣机1A 8kg",
+        "desc":"一键操作，父母都爱用",
+        "price":"899元",
+        "discount":"799元",
+        "img":"../image/flashsale/r3.jpg"
+    },
+    {
+        "index":3,
+        "name":"米家踢脚线电暖器 白色",
+        "desc":"通电即热，冬日取暖神器",
+        "price":"599元",
+        "discount":"499元",
+        "img":"../image/flashsale/r4.jpg"
+    },
+    {
+        "index":4,
+        "name":"小米全面屏电视65英寸 E65X",
+        "desc":"全面屏设计",
+        "price":"3099元",
+        "discount":"2899元",
+        "img":"../image/flashsale/r5.jpg"
+    },
+    {
+        "index":5,
+        "name":"HITH智能足浴器Q3 有线版本",
+        "desc":"D舒适按摩，精准恒温足浴",
+        "price":"569元",
+        "discount":"389元",
+        "img":"../image/flashsale/r6.jpg"
+    },
+    {
+        "index":6,
+        "name":"YUNMAI按摩筋膜枪Pro Basic",
+        "desc":"3档4头专业按摩，80天长效续航",
+        "price":"899元",
+        "discount":"689元",
+        "img":"../image/flashsale/r7.jpg"
+    }
+]

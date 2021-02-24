@@ -1,0 +1,58 @@
+[
+    {
+        "index":0,
+        "name":"小米11",
+        "price":"3999元起",
+        "introduce":"骁龙888|2K四曲面屏",
+        "image":"image/phone/1.jpg"
+    },
+    {
+        "index":1,
+        "name":"小米10至尊纪念版",
+        "price":"5299元起",
+        "introduce":"骁龙305|1亿像素相机",
+        "image":"image/phone/2.jpg"
+    },
+    {
+        "index":2,
+        "name":"小米10",
+        "price":"3399元起",
+        "introduce":"一亿像素夜景相机，120Hz六档变速效果",
+        "image":"image/phone/3.jpg"
+    },
+    {
+        "index":3,
+        "name":"小米10 青春版 5G",
+        "price":"2999元起",
+        "introduce":"骁龙888|2K四曲面屏",
+        "image":"image/phone/4.jpg"
+    },
+    {
+        "index":4,
+        "name":"Note 9 4G",
+        "price":"999元",
+        "introduce":"骁龙888|2K四曲面屏",
+        "image":"image/phone/5.jpg"
+    },
+    {
+        "index":5,
+        "name":"Redmi 9A",
+        "price":"499元",
+        "introduce":"骁龙888|2K四曲面屏",
+        "image":"image/phone/6.jpg"
+    },
+    {
+        "index":6,
+        "name":"Redmi K305 至尊纪念版",
+        "price":"2599元",
+        "introduce":"骁龙888|2K四曲面屏",
+        "image":"image/phone/7.jpg"
+    },
+    {
+        "index":7,
+        "name":"Redmi K30 至尊版",
+        "price":"1999元",
+        "introduce":"骁龙888|2K四曲面屏",
+        "image":"image/phone/8.jpg"
+    }
+]
